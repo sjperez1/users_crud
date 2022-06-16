@@ -1,0 +1,22 @@
+body {
+    padding: 40px;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.create {
+    margin-top: 20px;
+}
+
+.label {
+    margin-top: 15px;
+}
